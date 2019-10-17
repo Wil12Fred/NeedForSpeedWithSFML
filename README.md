@@ -9,7 +9,5 @@ Desarrollado en plataforma Mac OS X, compatible con Linux
 Cápturas del juego
 
 ![alt tag](https://github.com/Wil12Fred/NeedForSpeedWithSFML/blob/master/inicio.png)
-
-![Alt text](/../<branch name>/path/to/juego.png?raw=true "Juego")
-
-![Alt text](/../<branch name>/path/to/fin.png?raw=true "Fin")
+![alt tag](https://github.com/Wil12Fred/NeedForSpeedWithSFML/blob/master/juego.png)
+![alt tag](https://github.com/Wil12Fred/NeedForSpeedWithSFML/blob/master/fin.png)
